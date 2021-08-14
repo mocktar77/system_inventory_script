@@ -65,7 +65,8 @@ echo " "
 ## All opened ports
 echo " Here are all the opened port"
 echo " " 
-ss -tulpn | grep LISTEN
+netstat -punta | grep LISTEN
+#ss -tulpn | grep LISTEN
 
 sleep 3
 echo " "
