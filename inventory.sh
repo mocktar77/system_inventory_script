@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## Description: System inventory
-## Author: u5bt/email on 
+## Author: Mocktar TAIROU/mocktar.tairou@gmail.com
 
 #!/bin/bash
 
